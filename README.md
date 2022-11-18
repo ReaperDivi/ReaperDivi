@@ -33,7 +33,7 @@
     <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
   </a>
   <a>
-    <img alt="Adobe XD" src="[https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)">
+    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
   </a>
   <a>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
