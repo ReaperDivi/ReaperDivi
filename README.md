@@ -1,33 +1,94 @@
-<h1 align="center">Hi 👋, I'm Divik Arora</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reaperdivi&label=Profile%20views&color=0e75b6&style=flat" alt="reaperdivi" /> </p>
-
-- 🔭 I’m currently working on [Labor2Hire](https://github.com/ReaperDivi/Labor2Hire)
-
-- 🌱 I’m currently learning **Linux,CyberSecurity**
-
-- 💬 Ask me about **Python,C++,Pentration Testing**
-
-- 📫 How to reach me **thereaperdivi@gmail.com**
-
-- ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divik-arora-a7a20721b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divik-arora-a7a20721b" height="30" width="40" /></a>
-<a href="https://instagram.com/reaperdivi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reaperdivi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/reaperdivi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reaperdivi" height="30" width="40" /></a>
-<a href="https://discord.gg/jb3P5VBX38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jb3P5VBX38" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Divik Arora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiastic;Soon+Software+Developer;Computer+Science+Student;"></a>
 </p>
+<hr/>
+<h4 align="center">I am passionate about solving real-world problems through technology. I am a Cyber Security Enthusiastic. My main interest lies in Linux, React Native, and I have ample practical and research experience in these fields.</h4>
+<br>
+<p align="center"> 
+  <a href="https://drive.google.com/file/d/1JVeSUPMF7hQsib5b9M-T4Zz39TrowY1N/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
+</p>
+<hr/>
+<p align="center">
+  <img height= "160" src="https://github-readme-stats.vercel.app/api?username=reaperdivi&theme=tokyonight&show_icons=true&include_all_commits=true" alt="reaperdivi"/>
+  <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=reaperdivi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="reaperdivi"/>
+</p>
+<hr/>
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <a>
+    <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a>
+    <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
+  </a>
+  <a>
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3FA037?style=for-the-badge&logo=MongoDB&logoColor=white">
+  </a>
+  <a>
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white">
+  </a>
+  <a>
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  </a>
+  <br> 
+  <a>
+    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+  </a>
+  <a>
+    <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+  <a>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
+  </a>
+  <a>
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white">
+  </a>
+  <a>
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  <a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
+  <br>
+  <a>
+    <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+  </a>
+  <a>
+    <img alt="HTML" src="https://img.shields.io/badge/-HTML-f06529?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a>
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&logoColor=white">
+  </a>
+  <a>
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+  </a>
+  <a>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+  <a>
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a>
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+</p>
+<hr/>
+<p align="center">
+  <a href="https://github.com/Candida18"><img src="https://activity-graph.herokuapp.com/graph?username=reaperdivi&custom_title=Reaper%20Divi's%20Contribution%20Graph&bg_color=1a1b27&color=70a4fc&line=be91f2&point=4c4c54"/></a>
+</p>
+<hr/>
+<h3 align="center">Connect with me</h3>
+<div align="center">
+  
+  [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divik-arora-a7a20721b/)
+  [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thereaperdivi@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ReaperDivi#2684)
+  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/reaperdivi)
+  [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Reaperdivi/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reaperdivi&show_icons=true&locale=en&layout=compact" alt="reaperdivi" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reaperdivi&show_icons=true&locale=en" alt="reaperdivi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reaperdivi&" alt="reaperdivi" /></p>
+</div>
+<hr/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reaperdivi&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="reaperdivi"/> 
+</p>
