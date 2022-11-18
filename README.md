@@ -5,9 +5,6 @@
 <hr/>
 <h4 align="center">I am passionate about solving real-world problems through technology. I am a Cyber Security Enthusiastic. My main interest lies in Linux, React Native, and I have ample practical and research experience in these fields.</h4>
 <br>
-<p align="center"> 
-  <a href="https://drive.google.com/file/d/1JVeSUPMF7hQsib5b9M-T4Zz39TrowY1N/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
-</p>
 <hr/>
 <p align="center">
   <img height= "160" src="https://github-readme-stats.vercel.app/api?username=reaperdivi&theme=tokyonight&show_icons=true&include_all_commits=true" alt="reaperdivi"/>
