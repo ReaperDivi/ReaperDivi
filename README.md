@@ -9,7 +9,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"> <img height= "160" src="https://github-readme-stats.vercel.app/api?username=reaperdivi&theme=tokyonight&show_icons=true&include_all_commits=true" alt="reaperdivi"/>
+<p align="center"> 
   <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=reaperdivi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="reaperdivi"/></p>
 
 ## 🛠️ My Skills
